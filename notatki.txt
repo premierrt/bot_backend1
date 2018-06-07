@@ -4,3 +4,12 @@ https://botbackend1.herokuapp.com/webhook
 
 https://devcenter.heroku.com/articles/getting-started-with-java#introduction
 https://devcenter.heroku.com/articles/git#creating-a-heroku-remote
+
+
+--- boty
+https://aboullaite.me/my-first-java-bot/
+
+
+--webhook
+https://developers.facebook.com/docs/messenger-platform/getting-started/webhook-setup
+http://localhost:8080/webhook?hub.verify_token=bot_verify_token&hub.challenge=CHALLENGE_ACCEPTED&hub.mode=subscribe
